@@ -1,0 +1,14 @@
+/home/vik/projects/Cshr-prj/bin/Debug/net8.0/Cshr-prj
+/home/vik/projects/Cshr-prj/bin/Debug/net8.0/Cshr-prj.deps.json
+/home/vik/projects/Cshr-prj/bin/Debug/net8.0/Cshr-prj.runtimeconfig.json
+/home/vik/projects/Cshr-prj/bin/Debug/net8.0/Cshr-prj.dll
+/home/vik/projects/Cshr-prj/bin/Debug/net8.0/Cshr-prj.pdb
+/home/vik/projects/Cshr-prj/obj/Debug/net8.0/Cshr-prj.GeneratedMSBuildEditorConfig.editorconfig
+/home/vik/projects/Cshr-prj/obj/Debug/net8.0/Cshr-prj.AssemblyInfoInputs.cache
+/home/vik/projects/Cshr-prj/obj/Debug/net8.0/Cshr-prj.AssemblyInfo.cs
+/home/vik/projects/Cshr-prj/obj/Debug/net8.0/Cshr-prj.csproj.CoreCompileInputs.cache
+/home/vik/projects/Cshr-prj/obj/Debug/net8.0/Cshr-prj.dll
+/home/vik/projects/Cshr-prj/obj/Debug/net8.0/refint/Cshr-prj.dll
+/home/vik/projects/Cshr-prj/obj/Debug/net8.0/Cshr-prj.pdb
+/home/vik/projects/Cshr-prj/obj/Debug/net8.0/Cshr-prj.genruntimeconfig.cache
+/home/vik/projects/Cshr-prj/obj/Debug/net8.0/ref/Cshr-prj.dll
