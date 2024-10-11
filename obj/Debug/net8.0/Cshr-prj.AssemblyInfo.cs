@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cshr-prj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc9c6acf750f8005940b749204dfd0440d20dcd1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cshr-prj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cshr-prj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

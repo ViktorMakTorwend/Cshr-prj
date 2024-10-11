@@ -12,3 +12,4 @@
 /home/vik/projects/Cshr-prj/obj/Debug/net8.0/Cshr-prj.pdb
 /home/vik/projects/Cshr-prj/obj/Debug/net8.0/Cshr-prj.genruntimeconfig.cache
 /home/vik/projects/Cshr-prj/obj/Debug/net8.0/ref/Cshr-prj.dll
+/home/vik/projects/Cshr-prj/obj/Debug/net8.0/Cshr-prj.sourcelink.json
