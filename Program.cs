@@ -1,28 +1,31 @@
-﻿// for(byte i = 0; i < 10; i++) {
-//     Console.WriteLine("Element: {0}", i);
+﻿// byte[] nums = new byte[5];
+// nums[0] = 250;
+// nums[1] = 25;
+// nums[2] = 50;
+// nums[3] = 100;
+// nums[4] = 20;
+//System.Console.WriteLine("el: " + nums[0]);
+
+// string[] words = new string[] {"vik", "bob", "al"};
+// for(byte i = 0; i < nums.Length; i++) {
+//     System.Console.WriteLine("el: " + nums[i]);
 // }
 
-// byte k = 0;
-// while(k < 10) {
-//    Console.WriteLine("Element: {0}", k);
-//    k++;
+// for(byte i = 0; i < words.Length; i++) {
+//     System.Console.WriteLine("el: " + words[i]);
 // }
 
-// bool isHasCar = true;
-// while(isHasCar) {
-//     Console.WriteLine("Input the word");
-//     string end = Console.ReadLine();
-//     if(end =="end") {
-//         isHasCar = false;
-//     }
+// short[] numbers = new short[10];
+// short sum = 0;
+// Random random = new Random();
+// for(byte i = 0; i < numbers.Length; i++) {
+//     numbers[i] = Convert.ToInt16(random.Next(-5, 15));
+//     System.Console.WriteLine("el: " + numbers[i]);
+//     sum += numbers[i];
 // }
+// System.Console.WriteLine("sum: " + sum);
 
-for (short i = 0; i < 10; i++) {
-    // if (i > 5) {
-    //     break;
-    // }
-    if(i % 2 == 0) {
-        continue;
-    }
-    Console.WriteLine("Element: {0}", i);
-}
+int[,] nums = {
+    {2, 8, 7},
+    {7, 9, 5}
+};
