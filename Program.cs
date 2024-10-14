@@ -1,36 +1,14 @@
-﻿// For console
+﻿System.Console.WriteLine(Math.PI);
+System.Console.WriteLine(Math.Abs(-20));
+System.Console.WriteLine(Math.Ceiling(4.7f));
+System.Console.WriteLine(Math.Floor(4.7f));
+System.Console.WriteLine(Math.Round(4.56f));
+System.Console.WriteLine(Math.Min(6,8));
+System.Console.WriteLine(Math.Max(6,8));
+System.Console.WriteLine(Math.Pow(5,10));
 
-// Console.WriteLine("Hello");
-// Console.Write("Vik\n");
-// Console.ReadLine();
-// Console.ReadKey();
-
-// Data types
-
-// byte number_min = 255;
-// short number_mid = 32000;
-// int number_big = 2000000000;
-// long number_very_big = 2000000000000000000;
-// float number_float = 1000.517652f;
-// double number_double = 5.2354d;
-
-// string word = "Hello";
-// char symbol = 'a';
-
-// bool isHappy = true;
-
-// Console.WriteLine(number_min);
-// Console.WriteLine(number_mid);
-// Console.WriteLine(number_big);
-// Console.WriteLine(number_very_big);
-// Console.WriteLine(number_float);
-// Console.WriteLine(number_double);
-// Console.WriteLine(word);
-// Console.WriteLine(symbol);
-// Console.WriteLine(isHappy);
-
-// int num_1 = 0, num_2 = 0;
-// num_1 = Convert.ToInt32(Console.ReadLine());
-// num_2 = Convert.ToInt32(Console.ReadLine());
-// Console.WriteLine("First: " + num_1 + " " + "Second: " + num_2);
+Console.WriteLine("Input circle radius");
+double radius = Convert.ToDouble(Console.ReadLine());
+double area = Math.PI * Math.Pow(radius, 2);
+Console.WriteLine("The square with {0} is equal {1}", radius, area);
 
